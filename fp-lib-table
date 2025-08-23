@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "usbc-7seg")(type "KiCad")(uri "${KIPRJMOD}/usbc-7seg.pretty")(options "")(descr ""))
+)
