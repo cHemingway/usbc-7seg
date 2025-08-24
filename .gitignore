@@ -43,3 +43,9 @@ fp-info-cache
 # Misc
 *.log
 *.raw
+
+# Production exports
+*.zip
+
+# OSX
+.DS_Store
